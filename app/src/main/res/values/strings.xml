@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exam</string>
+    <string-array name="interest_type_array">
+        <item>Simple Interest</item>
+        <item>Compound Interest</item>
+    </string-array>
+</resources>
